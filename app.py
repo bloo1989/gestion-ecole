@@ -7,7 +7,7 @@ from datetime import datetime
 st.set_page_config(page_title="Scolarité Cloud", layout="wide", page_icon="☁️")
 
 # URL de ta Google Sheet (METS TON LIEN ICI)
-GSHEET_URL = "TON_LIEN_GOOGLE_SHEET_ICI"
+GSHEET_URL = "https://docs.google.com/spreadsheets/d/1uYPNoVR2vICZxtVzhKj1L0INV1axd2rU0ZeG_zyji4k/edit?usp=sharing"
 
 PASSWORD_ADMIN = "admin123"
 
